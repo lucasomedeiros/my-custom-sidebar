@@ -31,3 +31,49 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Sidebar styles */
+.bg-gray-800 {
+  background-color: #2d3748;
+}
+
+.text-gray-300 {
+  color: #cbd5e0;
+}
+
+.hover\:text-white:hover {
+  color: #fff;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.w-64 {
+  width: 16rem;
+}
+
+.flex-none {
+  flex: none;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.hidden {
+  display: none;
+}
